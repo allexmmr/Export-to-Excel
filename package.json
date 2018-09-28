@@ -1,0 +1,29 @@
+{
+  "name": "export-to-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allexmmr/Export-to-Excel.git"
+  },
+  "keywords": [
+    "node",
+    "export",
+    "to",
+    "excel"
+  ],
+  "author": "Allex Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allexmmr/Export-to-Excel/issues"
+  },
+  "homepage": "https://github.com/allexmmr/Export-to-Excel#readme",
+  "dependencies": {
+    "excel4node": "^1.6.0"
+  }
+}
